@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RestaurantBestillinger": {
+      "commandName": "Project",
+      "commandLineArgs": "tables.json reservations.json 14 00 3 \"John Doe\" 437587"
+    }
+  }
+}

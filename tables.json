@@ -1,0 +1,23 @@
+[
+  {
+    "name": "A",
+    "capacity": 6,
+    "isBooked": false
+  },
+  {
+    "name": "B",
+    "capacity": 8,
+    "isBooked": true
+  },
+  {
+    "name": "C",
+    "capacity": 4,
+    "isBooked": false
+  },
+  {
+    "name": "D",
+    "capacity": 2,
+    "isBooked": true
+  }
+]
+
